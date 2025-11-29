@@ -34,7 +34,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/XDBAZA123/XDBAZA123/output/snake.svg" alt="Snake animation" />
-
-###
