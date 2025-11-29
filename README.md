@@ -1,4 +1,4 @@
-## Hi there 👋
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31sobuxvqdiazqj5jlitffkew6zu)
 
 <!--
 **XDBAZA123/xdbaza123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
